@@ -1,0 +1,20 @@
+
+
+1- Form de cadastro
+  a) campos
+  b) capturar o valor do input
+  c) enviar para o controller
+  d) Valida os dados
+  e) salva ou rejeita
+
+
+form -> body -> controller -> model -> db
+
+2- Banco 
+  a) dados do banco
+  b) capturar o valor do banco
+  c) enviar para o controller
+  d) Valida os dados
+  e) exibir ou rejeita
+
+view <- res <- controller <- model <- db
